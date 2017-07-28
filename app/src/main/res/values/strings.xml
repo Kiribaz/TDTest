@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrinityDigitalTest</string>
+    <string name="title_activity_main">Диалоги</string>
+    <string name="years">лет</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="many_messages">999+</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="similarity">%d%%</string>
+</resources>

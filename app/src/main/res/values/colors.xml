@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9960c7</color>
+    <color name="colorPrimaryDark">#8538c4</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorShape_status_circle">#ffffff</color>
+    <color name="colorShape_status_circle_stroke">#ffffff</color>
+    <color name="colorShape_unread_messages_circle">#9960c7</color>
+</resources>

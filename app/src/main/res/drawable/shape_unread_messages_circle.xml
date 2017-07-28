@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shape_unread_messages_circle"
+    android:shape="oval">
+    <size
+        android:width="35dp"
+        android:height="35dp" />
+    <solid android:color="@color/colorShape_unread_messages_circle" />
+</shape>
